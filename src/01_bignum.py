@@ -3,4 +3,8 @@
 
 # YOUR CODE HERE
 
-print(pow(2,65536))
+# print(pow(2,65536))
+
+# or
+
+print(2**65536)
